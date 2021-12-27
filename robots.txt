@@ -1,6 +1,8 @@
 User-agent: Googlebot
 Allow: /
-
+Sitemap: https://rohith.world/
+Sitemap: https://rohith.world/index.html
+Sitemap: https://rohith.world/Buissness.html
 User-agent: *
 Disallow: /
 
